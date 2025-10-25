@@ -36,13 +36,16 @@
 ## 界面截图
 
 ### 浅色模式
-![浅色模式界面](screenshots/light_mode.png)
+<img width="1193" height="1461" alt="image" src="https://github.com/user-attachments/assets/7bac9530-3478-4145-aba4-57f1624a492b" />
+
 
 ### 深色模式
-![深色模式界面](screenshots/dark_mode.png)
+<img width="1194" height="1472" alt="image" src="https://github.com/user-attachments/assets/fc6d57d3-3182-42f5-a122-0f4738499328" />
+
 
 ### 快捷方式管理
-![快捷方式管理窗口](screenshots/management.png)
+<img width="1124" height="792" alt="image" src="https://github.com/user-attachments/assets/72ea1265-8e5b-43a1-81c3-e7148131380f" />
+
 
 ## 更新日志
 
