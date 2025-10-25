@@ -1,4 +1,4 @@
-# shortCut2Files 📂
+<img width="1200" height="1467" alt="image" src="https://github.com/user-attachments/assets/6618ec58-85ab-4c3d-a3ea-eb71a2568459" /># shortCut2Files 📂
 
 一个轻量级文件快捷方式管理器，帮助你快速访问常用文件夹，支持别名设置、深色模式等功能，提升文件管理效率。
 
@@ -48,7 +48,7 @@
 
 ## 更新日志
 
-### v1.0.0（首次发布）
+### v1.0.0（首次发布）(i2.0)
 - 支持文件夹快捷方式添加/删除/重命名
 - 实现文件夹别名功能
 - 深色/浅色模式切换
