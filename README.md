@@ -63,7 +63,7 @@
 - `ctypes`：Windows 系统交互（如回收站功能）
 
 如需二次开发：
-1. 克隆仓库：`git clone https://github.com/你的用户名/仓库名.git`
+1. 克隆仓库：`git clone https://github.com/bleakM/shortCut2Files.git`
 2. 安装依赖（Python 3.8+）：无需额外依赖（标准库已包含）
 3. 运行源码：`python main.py`
 
@@ -149,7 +149,7 @@ This project is developed based on Python’s Tkinter library, with core depende
 - `ctypes`: For Windows system interactions (e.g., Recycle Bin functionality).
 
 For secondary development:
-1. Clone the repository: `git clone https://github.com/your-username/repo-name.git`
+1. Clone the repository: `git clone https://github.com/bleakM/shortCut2Files.git`
 2. Install dependencies (Python 3.8+): No additional dependencies required (all use standard libraries).
 3. Run the source code: `python main.py`
 
