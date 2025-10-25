@@ -73,5 +73,92 @@
 
 ## 反馈与贡献
 
-- 如有 Bug 或建议，欢迎提交 [Issue](https://github.com/你的用户名/仓库名/issues)
+- 如有 Bug 或建议，欢迎提交 [Issue](https://github.com/bleakM/shortCut2Files/issues)
 - 欢迎 Fork 并提交 Pull Request 改进功能
+
+# shortCut2Files 📂
+
+A lightweight file shortcut manager that helps you quickly access frequently used folders. It supports alias setting, dark mode, and other features to improve file management efficiency.
+
+> **Note**: Currently, the application only supports the Chinese interface.
+
+
+## Features
+
+- 🚀 **Shortcut Management**: Add, rename, and remove shortcuts for frequently used folders for one-click access.
+- 🔖 **Alias Setting**: Customize aliases for folders to hide complex paths.
+- 🌙 **Dark/Light Mode**: Switch between interface styles based on usage habits.
+- 📋 **Path Operations**: Quickly copy file/folder paths and open their locations.
+- 📁 **File Operations**: Create, rename, and delete files/folders (moves to Recycle Bin).
+- 🔄 **Auto-expand**: Set frequently used folders to expand automatically on startup, no manual clicking required.
+
+
+## Installation
+
+1. Go to the [Releases page](https://github.com/your-username/repo-name/releases)
+2. Download the latest version of `shortCut2Files.exe` (or the compressed package)
+3. Double-click to run (no installation required, portable)
+
+> **Note**: Only supports Windows systems (tested on Windows 10/11).
+
+
+## Usage Guide
+
+### 1. Manage Shortcuts
+- **Add**: Click "管理快捷方式" (Manage Shortcuts) → "添加" (Add), then select the folder to add.
+- **Rename/Remove**: Right-click a shortcut and select "重命名" (Rename) or "从库中移除" (Remove from Library).
+- **Auto-expand**: Right-click a shortcut and check "默认展开" (Auto-expand) to make it expand automatically on next startup.
+
+### 2. Folder Aliases
+- Right-click a folder → "设置别名" (Set Alias), then enter a custom name (e.g., set "D:/Work/Project2025" to "我的项目" (My Project)).
+- The alias will be displayed in the tree view, while the original path remains unchanged.
+
+### 3. Common Operations
+- **Open Location**: Select a file/folder and click "显示选中位置" (Show Selected Location) to jump directly.
+- **Copy Path**: Click "复制选中路径" (Copy Selected Path) to copy the full path to the clipboard.
+- **Create New File/Folder**: Right-click a parent folder → "新建" (New) → select the type and enter a name.
+
+
+## Interface Screenshots
+
+### Light Mode
+<img width="1193" height="1461" alt="image" src="https://github.com/user-attachments/assets/7bac9530-3478-4145-aba4-57f1624a492b" />
+
+### Dark Mode
+
+<img width="1194" height="1472" alt="image" src="https://github.com/user-attachments/assets/fc6d57d3-3182-42f5-a122-0f4738499328" />
+
+### Shortcut Management
+<img width="1124" height="792" alt="image" src="https://github.com/user-attachments/assets/72ea1265-8e5b-43a1-81c3-e7148131380f" />
+
+
+## Changelog
+
+### v1.0.0 (Initial Release)
+- Support adding/deleting/renaming folder shortcuts.
+- Implement folder alias functionality.
+- Add dark/light mode switching.
+- Basic file operations (create/delete/rename).
+
+
+## Development Notes
+
+This project is developed based on Python’s Tkinter library, with core dependencies including:
+- `tkinter`: GUI framework (included in Python standard library).
+- `json`: For configuration file storage.
+- `ctypes`: For Windows system interactions (e.g., Recycle Bin functionality).
+
+For secondary development:
+1. Clone the repository: `git clone https://github.com/your-username/repo-name.git`
+2. Install dependencies (Python 3.8+): No additional dependencies required (all use standard libraries).
+3. Run the source code: `python main.py`
+
+
+## License
+
+This project is open-source under the [MIT License](LICENSE). You are free to use and modify it.
+
+
+## Feedback & Contributions
+- If you encounter bugs or have suggestions, feel free to submit an [Issue](https://github.com/bleakM/shortCut2Files/issues).
+- Fork the repository and submit a Pull Request to contribute improvements.
