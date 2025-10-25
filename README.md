@@ -1,3 +1,4 @@
+------中文版本Chinese-----
 一个轻量级文件快捷方式管理器，帮助你快速访问常用文件夹，支持别名设置、深色模式等功能，提升文件管理效率。
 
 ## 功能特点
@@ -74,6 +75,9 @@
 
 - 如有 Bug 或建议，欢迎提交 [Issue](https://github.com/bleakM/shortCut2Files/issues)
 - 欢迎 Fork 并提交 Pull Request 改进功能
+
+
+-------English-------
 
 # shortCut2Files 📂
 
