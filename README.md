@@ -11,9 +11,8 @@
 
 ## 安装方法
 
-1. 前往 [Releases 页面](https://github.com/你的用户名/仓库名/releases)
-2. 下载最新版本的 `shortCut2Files.exe`（或压缩包）
-3. 双击运行即可（无需安装，绿色便携）
+1. 下载最新版本的 `shortCut2Files.exe`（或压缩包）
+2. 创建快捷方式，放置到桌面上双击运行即可
 
 > 注意：仅支持 Windows 系统（Windows 10/11 测试通过）
 
@@ -95,9 +94,8 @@ A lightweight file shortcut manager that helps you quickly access frequently use
 
 ## Installation
 
-1. Go to the [Releases page](https://github.com/your-username/repo-name/releases)
-2. Download the latest version of `shortCut2Files.exe` (or the compressed package)
-3. Double-click to run (no installation required, portable)
+1. Download the latest version of `shortCut2Files.exe` (or the compressed file)
+2. Create a shortcut and place it on the desktop. Double-click to run it.
 
 > **Note**: Only supports Windows systems (tested on Windows 10/11).
 
