@@ -1,0 +1,28 @@
+# Python 虚拟环境
+venv/
+env/
+*.env
+
+# 编译产物
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 打包相关
+build/
+dist/
+*.spec
+*.exe  # 注意：仅忽略本地生成的exe，发布时通过Releases上传
+
+# 配置文件（可选，如果你不想公开本地测试的配置）
+shortcuts.json
+aliases.json
+config.json
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 截图文件夹（如果已提交截图，可注释此行）
+# screenshots/
